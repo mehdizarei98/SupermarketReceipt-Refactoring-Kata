@@ -33,3 +33,5 @@ class Receipt:
     @property
     def discounts(self):
         return self._discounts[:]
+    
+    print('hellloo boys')
