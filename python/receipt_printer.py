@@ -1,6 +1,7 @@
 from model_objects import ProductUnit
 
 class ReceiptPrinter:
+ok 
 
     def __init__(self, columns=40):
         self.columns = columns
